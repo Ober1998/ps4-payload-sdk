@@ -1,0 +1,466 @@
+
+Device Manufacturer: realme
+Device Model       : RMX3741
+Android Version    : 14
+Android SDK        : 34
+App VersionName    : 2.14
+App VersionCode    : 184
+
+Paths list         : 192.168.88.139
+                     192.168.88.63
+                     192.168.0.1
+                     
+*************************
+--------- beginning of main
+D/TrafficStats(28509): tagSocket(5) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(5) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(137) with statsTag=0xffffffff, statsUid=-1
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+D/VRI[MainActivity](28509): dispatchAppVisibility visible:true
+D/callGcSupression(28509): java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+D/callGcSupression(28509): java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+D/VRI[MainActivity](28509): setWindowStopped stopped:false
+D/ScrollOptim [SceneManager](28509): updateCurrentActivity: mCurrentActivityName=com.al.dlnaserver.MainActivity, isOptEnable=true, isAnimAheadEnable=true, isFrameInsertEnable=true, InsertNum=1, isEnabledForScrollChanged=false
+D/ViewRootImplExtImpl(28509): wrapConfigInfoIntoFlags rotation=0, smallestScreenWidthDp=360, relayoutAsync=false, newFlags=23592960, title=com.al.dlnaserver/com.al.dlnaserver.MainActivity
+D/BufferQueueConsumer(28509): [](id:6f5d0000000b,api:0,p:-1,c:28509) connect: controlledByApp=false
+E/OpenGLRenderer(28509): Unable to match the desired swap behavior.
+I/SurfaceControl(28509):  setExtendedRangeBrightness sc=Surface(name=com.al.dlnaserver/com.al.dlnaserver.MainActivity)/@0x2bee2e6,currentBufferRatio=1.0,desiredRatio=1.0
+D/BLASTBufferQueue(28509): [VRI[MainActivity]#11](f:0,a:1) acquireNextBufferLocked size=1080x2412 mFrameNumber=1 applyTransaction=true mTimestamp=43962943827004(auto) mPendingTransactions.size=0 graphicBufferId=122445222641741 transform=0
+D/VRI[MainActivity](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+D/VRI[MainActivity](28509): draw finished.
+D/VRI[MainActivity](28509): reportDrawFinished
+D/ViewRootImplExtImpl(28509): setMaxDequeuedBufferCount: 2
+D/VRI[MainActivity](28509): onFocusEvent true
+D/InsetsController(28509): show(ime(), fromIme=true)
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(202) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(202) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(202) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+I/ImeTracker(28509): com.al.dlnaserver:41dcc2eb: onShown
+D/TrafficStats(28509): tagSocket(137) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(137) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(139) with statsTag=0xffffffff, statsUid=-1
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@753c9c8[MainActivity] change focus to true
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=979.125, y[0]=138.625, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43965128, downTime=43965079, deviceId=3, source=0x1002, displayId=0, eventId=77131244 } handled by client, just return
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+D/WindowManager(28509): Add to mViews: DecorView@d67404d[MainActivity],pkg= com.al.dlnaserver
+D/InputEventReceiver(28509): Input log is disabled in InputEventReceiver.
+E/OplusBracketLog(28509): [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@af49449
+D/BufferQueueConsumer(28509): [](id:6f5d0000000c,api:0,p:-1,c:28509) connect: controlledByApp=false
+E/OpenGLRenderer(28509): Unable to match the desired swap behavior.
+I/SurfaceControl(28509):  setExtendedRangeBrightness sc=Surface(name=com.al.dlnaserver/com.al.dlnaserver.MainActivity)/@0x88f745a,currentBufferRatio=1.0,desiredRatio=1.0
+D/BLASTBufferQueue(28509): [VRI[MainActivity]#12](f:0,a:1) acquireNextBufferLocked size=1218x2376 mFrameNumber=1 applyTransaction=true mTimestamp=43965253783004(auto) mPendingTransactions.size=0 graphicBufferId=122445222641748 transform=0
+D/VRI[MainActivity](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+D/VRI[MainActivity](28509): draw finished.
+D/VRI[MainActivity](28509): reportDrawFinished
+D/ViewRootImplExtImpl(28509): setMaxDequeuedBufferCount: 2
+D/VRI[MainActivity](28509): onFocusEvent false
+D/VRI[MainActivity](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=3 didProduceBuffer=true syncBuffer=false
+D/VRI[MainActivity](28509): draw finished.
+D/VRI[MainActivity](28509): reportDrawFinished
+D/VRI[MainActivity](28509): onFocusEvent true
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+D/TrafficStats(28509): tagSocket(175) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(180) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(180) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(180) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(175) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(180) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(180) with statsTag=0xffffffff, statsUid=-1
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@753c9c8[MainActivity] change focus to false
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@d67404d[MainActivity] change focus to true
+D/OplusSystemUINavigationGestureExtImpl(28509): regionString = null
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=389.25, y[0]=375.875, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43966432, downTime=43966362, deviceId=3, source=0x1002, displayId=0, eventId=1049676767 } handled by client, just return
+D/TrafficStats(28509): tagSocket(256) with statsTag=0xffffffff, statsUid=-1
+W/System  (28509): A resource failed to call close. 
+I/DlnaMediaServer(28509): ServiceChecker.Timer: dlnaserver wakelock was updated
+I/m.al.dlnaserver(28509): Background concurrent copying GC freed 106816(5122KB) AllocSpace objects, 2(104KB) LOS objects, 59% free, 4266KB/10MB, paused 980us,105us total 110.780ms
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=820.25, y[0]=730.75, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43967746, downTime=43967687, deviceId=3, source=0x1002, displayId=0, eventId=56345807 } handled by client, just return
+D/WindowManager(28509): Add to mViews: android.widget.PopupWindow$PopupDecorView{d2e5fa3 V.E...... R.....I. 0,0-0,0 viewInfo = },pkg= com.al.dlnaserver
+D/InputEventReceiver(28509): Input log is disabled in InputEventReceiver.
+E/OplusBracketLog(28509): [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@9a07a1e
+D/BufferQueueConsumer(28509): [](id:6f5d0000000d,api:0,p:-1,c:28509) connect: controlledByApp=false
+E/OpenGLRenderer(28509): Unable to match the desired swap behavior.
+I/SurfaceControl(28509):  setExtendedRangeBrightness sc=Surface(name=PopupWindow:85902d2)/@0x1dad564,currentBufferRatio=1.0,desiredRatio=1.0
+D/BLASTBufferQueue(28509): [VRI[PopupWindow:85902d2]#13](f:0,a:1) acquireNextBufferLocked size=627x816 mFrameNumber=1 applyTransaction=true mTimestamp=43967811336543(auto) mPendingTransactions.size=0 graphicBufferId=122445222641755 transform=0
+D/VRI[PopupWindow:85902d2](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+D/VRI[PopupWindow:85902d2](28509): draw finished.
+D/VRI[PopupWindow:85902d2](28509): reportDrawFinished
+D/ViewRootImplExtImpl(28509): setMaxDequeuedBufferCount: 2
+D/VRI[PopupWindow:85902d2](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=true syncBuffer=false
+W/System  (28509): A resource failed to call close. 
+D/VRI[PopupWindow:85902d2](28509): draw finished.
+D/VRI[PopupWindow:85902d2](28509): reportDrawFinished
+D/VRI[MainActivity](28509): onFocusEvent false
+D/VRI[PopupWindow:85902d2](28509): onFocusEvent true
+D/TrafficStats(28509): tagSocket(181) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(188) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(188) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(188) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(181) with statsTag=0xffffffff, statsUid=-1
+D/OplusSystemUINavigationGestureExtImpl(28509): regionString = null
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=325.0, y[0]=238.75, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43968673, downTime=43968613, deviceId=3, source=0x1002, displayId=0, eventId=1057845842 } handled by client, just return
+D/TrafficStats(28509): tagSocket(175) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(175) with statsTag=0xffffffff, statsUid=-1
+I/SurfaceControl(28509):  setExtendedRangeBrightness sc=Surface(name=PopupWindow:85902d2)/@0x1dad564,currentBufferRatio=1.0,desiredRatio=1.0
+D/VRI[PopupWindow:85902d2](28509): onFocusEvent false
+D/VRI[MainActivity](28509): onFocusEvent true
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/OplusScrollToTopManager(28509): PopupWindow:85902d2,window dying
+D/OplusScrollToTopManager(28509): PopupWindow:85902d2,unregisterSystemUIBroadcastReceiver 
+D/OplusScrollToTopManager(28509): PopupWindow:85902d2, unregisterSystemUIBroadcastReceiver failed java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@125a551
+W/WindowOnBackDispatcher(28509): sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@fbd52ff
+D/OpenGLRenderer(28509): RenderProxy::destroy: this=0x7310725080, mContext=0x737d3950c0
+D/OpenGLRenderer(28509): SkiaOpenGLPipeline::setSurface: this=0x7371b2bbc0, surface=NULL
+D/BLASTBufferQueue(28509): [VRI[PopupWindow:85902d2]#13](f:0,a:4) destructor()
+D/BufferQueueConsumer(28509): [VRI[PopupWindow:85902d2]#13(BLAST Consumer)13](id:6f5d0000000d,api:0,p:-1,c:28509) disconnect
+D/OpenGLRenderer(28509): SkiaOpenGLPipeline::setSurface: this=0x7371b2bbc0, surface=NULL
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+D/OplusViewDebugManager(28509): OplusViewDebugManager Constructor android.view.debug.OplusViewDebugManager@1019eb7 [mHasViewDebugProperty true] [mHasMsgDebugProperty false] [DEBUG false] [EXTRAINFOENABLE false] [LIGHT_OS false]
+D/OplusViewDebugManager(28509): OplusViewDebugManager Constructor android.view.debug.OplusViewDebugManager@4968624 [mHasViewDebugProperty true] [mHasMsgDebugProperty false] [DEBUG false] [EXTRAINFOENABLE false] [LIGHT_OS false]
+I/ScrollIdentify(28509): on fling
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=993.25, y[0]=1022.25, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43969499, downTime=43969152, deviceId=3, source=0x1002, displayId=0, eventId=629322994 } handled by client, just return
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@d67404d[MainActivity] change focus to true
+I/ScrollIdentify(28509): on fling
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=963.0625, y[0]=1105.4375, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43970084, downTime=43969836, deviceId=3, source=0x1002, displayId=0, eventId=105075658 } handled by client, just return
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=681.875, y[0]=1594.375, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43970736, downTime=43970656, deviceId=3, source=0x1002, displayId=0, eventId=845271361 } handled by client, just return
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+D/WindowManager(28509): Add to mViews: DecorView@657ba3e[MainActivity],pkg= com.al.dlnaserver
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/InputEventReceiver(28509): Input log is disabled in InputEventReceiver.
+D/TrafficStats(28509): tagSocket(197) with statsTag=0xffffffff, statsUid=-1
+E/OplusBracketLog(28509): [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@50654d8
+D/TrafficStats(28509): tagSocket(197) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(197) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(199) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(199) with statsTag=0xffffffff, statsUid=-1
+D/BufferQueueConsumer(28509): [](id:6f5d0000000e,api:0,p:-1,c:28509) connect: controlledByApp=false
+E/OpenGLRenderer(28509): Unable to match the desired swap behavior.
+I/SurfaceControl(28509):  setExtendedRangeBrightness sc=Surface(name=com.al.dlnaserver/com.al.dlnaserver.MainActivity)/@0x1cd1f38,currentBufferRatio=1.0,desiredRatio=1.0
+D/BLASTBufferQueue(28509): [VRI[MainActivity]#14](f:0,a:1) acquireNextBufferLocked size=1218x907 mFrameNumber=1 applyTransaction=true mTimestamp=43970866732466(auto) mPendingTransactions.size=0 graphicBufferId=122445222641762 transform=0
+D/VRI[MainActivity](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+D/VRI[MainActivity](28509): draw finished.
+D/VRI[MainActivity](28509): reportDrawFinished
+D/ViewRootImplExtImpl(28509): setMaxDequeuedBufferCount: 2
+D/VRI[MainActivity](28509): onFocusEvent false
+D/VRI[MainActivity](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=3 didProduceBuffer=true syncBuffer=false
+D/VRI[MainActivity](28509): draw finished.
+D/VRI[MainActivity](28509): reportDrawFinished
+D/VRI[MainActivity](28509): onFocusEvent true
+W/WindowOnBackDispatcher(28509): sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@4819785 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@cd0c3f8
+W/RemoteInputConnectionImpl(28509): requestCursorAnchorInfo on inactive InputConnection
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+W/WindowOnBackDispatcher(28509): sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@4819785 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@cd0c3f8
+I/ImeTracker(28509): com.al.dlnaserver:9108b52: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+I/ImeTracker(28509): com.al.dlnaserver:e5141fd6: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT_BY_INSETS_API
+I/ImeTracker(28509): com.al.dlnaserver:e5141fd6: onFailed at PHASE_CLIENT_VIEW_SERVED
+D/TrafficStats(28509): tagSocket(169) with statsTag=0xffffffff, statsUid=-1
+D/OplusSystemUINavigationGestureExtImpl(28509): regionString = null
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@d67404d[MainActivity] change focus to false
+I/ImeTracker(28509): com.al.dlnaserver:991ffbff: onRequestShow at ORIGIN_CLIENT_SHOW_SOFT_INPUT reason SHOW_SOFT_INPUT
+D/InputMethodManager(28509): showSoftInput() view=android.widget.EditText{73d9e58 VFED..CL. .F.P..ID 0,0-945,129 #7f0a000a app:id/custom_input_EditText aid=1073741910 viewInfo = } flags=0 reason=SHOW_SOFT_INPUT
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=618.75, y[0]=405.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43971873, downTime=43971817, deviceId=3, source=0x1002, displayId=0, eventId=715601212 } handled by client, just return
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+I/AssistStructure(28509): Flattened final assist data: 25560 bytes, containing 3 windows, 53 views
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@657ba3e[MainActivity] change focus to true
+D/InsetsController(28509): show(ime(), fromIme=true)
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+I/AssistStructure(28509): Flattened final assist data: 25560 bytes, containing 3 windows, 53 views
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+I/ImeTracker(28509): com.al.dlnaserver:991ffbff: onShown
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(210) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(210) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(210) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/TrafficStats(28509): tagSocket(197) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(197) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(240) with statsTag=0xffffffff, statsUid=-1
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(200) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(200) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(200) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(200) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(200) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(311) with statsTag=0xffffffff, statsUid=-1
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+W/System  (28509): A resource failed to call close. 
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+W/System  (28509): A resource failed to call close. 
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=835.5, y[0]=596.875, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43977042, downTime=43977005, deviceId=3, source=0x1002, displayId=0, eventId=260831255 } handled by client, just return
+W/WindowOnBackDispatcher(28509): sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@4819785 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@a074601
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,window dying
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,unregisterSystemUIBroadcastReceiver 
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity, unregisterSystemUIBroadcastReceiver failed java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@2334ca6
+W/WindowOnBackDispatcher(28509): sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@32ed316
+D/OplusCursorFeedback(28509): editorDetachFromWindow android.widget.Editor@f9666e7
+D/OpenGLRenderer(28509): RenderProxy::destroy: this=0x7310724180, mContext=0x737d3936c0
+D/OpenGLRenderer(28509): SkiaOpenGLPipeline::setSurface: this=0x730076be80, surface=NULL
+D/OpenGLRenderer(28509): endAllActiveAnimators on 0x737d302a00 (RippleDrawable) with handle 0x7371a74ea0
+D/BLASTBufferQueue(28509): [VRI[MainActivity]#14](f:0,a:4) destructor()
+D/BufferQueueConsumer(28509): [VRI[MainActivity]#14(BLAST Consumer)14](id:6f5d0000000e,api:0,p:-1,c:28509) disconnect
+D/VRI[MainActivity](28509): onFocusEvent true
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/TrafficStats(28509): tagSocket(177) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(221) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(221) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(221) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(177) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(221) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(221) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(263) with statsTag=0xffffffff, statsUid=-1
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@d67404d[MainActivity] change focus to true
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=93.25, y[0]=1448.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43979418, downTime=43979335, deviceId=3, source=0x1002, displayId=0, eventId=805895920 } handled by client, just return
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+D/WindowManager(28509): Add to mViews: DecorView@206c1f9[MainActivity],pkg= com.al.dlnaserver
+D/InputEventReceiver(28509): Input log is disabled in InputEventReceiver.
+E/OplusBracketLog(28509): [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@ce884b5
+D/BufferQueueConsumer(28509): [](id:6f5d0000000f,api:0,p:-1,c:28509) connect: controlledByApp=false
+E/OpenGLRenderer(28509): Unable to match the desired swap behavior.
+I/SurfaceControl(28509):  setExtendedRangeBrightness sc=Surface(name=com.al.dlnaserver/com.al.dlnaserver.MainActivity)/@0x73d9f20,currentBufferRatio=1.0,desiredRatio=1.0
+D/BLASTBufferQueue(28509): [VRI[MainActivity]#15](f:0,a:1) acquireNextBufferLocked size=1218x869 mFrameNumber=1 applyTransaction=true mTimestamp=43979514564851(auto) mPendingTransactions.size=0 graphicBufferId=122445222641769 transform=0
+D/VRI[MainActivity](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+D/VRI[MainActivity](28509): draw finished.
+D/VRI[MainActivity](28509): reportDrawFinished
+D/ViewRootImplExtImpl(28509): setMaxDequeuedBufferCount: 2
+D/VRI[MainActivity](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=3 didProduceBuffer=true syncBuffer=false
+D/VRI[MainActivity](28509): draw finished.
+D/VRI[MainActivity](28509): reportDrawFinished
+D/VRI[MainActivity](28509): onFocusEvent false
+D/VRI[MainActivity](28509): onFocusEvent true
+W/RemoteInputConnectionImpl(28509): requestCursorAnchorInfo on inactive InputConnection
+E/ImeBackDispatcher(28509): Ime callback not found. Ignoring unregisterReceivedCallback. callbackId: 4819785
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(181) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(319) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(175) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(175) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(175) with statsTag=0xffffffff, statsUid=-1
+W/System  (28509): A resource failed to call close. 
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@d67404d[MainActivity] change focus to false
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@206c1f9[MainActivity] change focus to true
+D/OplusSystemUINavigationGestureExtImpl(28509): regionString = null
+I/ImeTracker(28509): com.al.dlnaserver:8b4e7ee6: onRequestShow at ORIGIN_CLIENT_SHOW_SOFT_INPUT reason SHOW_SOFT_INPUT
+D/InputMethodManager(28509): showSoftInput() view=android.widget.EditText{492d929 VFED..CL. .F.P..ID 0,0-945,129 #7f0a000a app:id/custom_input_EditText aid=1073741953 viewInfo = } flags=0 reason=SHOW_SOFT_INPUT
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=670.25, y[0]=361.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43980921, downTime=43980887, deviceId=3, source=0x1002, displayId=0, eventId=232835362 } handled by client, just return
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+I/AssistStructure(28509): Flattened final assist data: 25616 bytes, containing 3 windows, 53 views
+D/InsetsController(28509): show(ime(), fromIme=true)
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+I/ImeTracker(28509): com.al.dlnaserver:8b4e7ee6: onShown
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(211) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(211) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(211) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(211) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(211) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(235) with statsTag=0xffffffff, statsUid=-1
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=825.25, y[0]=528.125, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43983906, downTime=43983882, deviceId=3, source=0x1002, displayId=0, eventId=565876822 } handled by client, just return
+W/WindowOnBackDispatcher(28509): sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@4819785 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@75d544b
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,window dying
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,unregisterSystemUIBroadcastReceiver 
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity, unregisterSystemUIBroadcastReceiver failed java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@f6dee28
+W/WindowOnBackDispatcher(28509): sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@39966bb
+D/OplusCursorFeedback(28509): editorDetachFromWindow android.widget.Editor@b4ec741
+D/OpenGLRenderer(28509): RenderProxy::destroy: this=0x737b427080, mContext=0x7314414d00
+D/OpenGLRenderer(28509): SkiaOpenGLPipeline::setSurface: this=0x7371b2be40, surface=NULL
+D/OpenGLRenderer(28509): endAllActiveAnimators on 0x737b598600 (RippleDrawable) with handle 0x7371a94a80
+D/BLASTBufferQueue(28509): [VRI[MainActivity]#15](f:0,a:4) destructor()
+D/BufferQueueConsumer(28509): [VRI[MainActivity]#15(BLAST Consumer)15](id:6f5d0000000f,api:0,p:-1,c:28509) disconnect
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/VRI[MainActivity](28509): onFocusEvent true
+D/TrafficStats(28509): tagSocket(201) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(206) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(206) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(206) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(201) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(206) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(206) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(264) with statsTag=0xffffffff, statsUid=-1
+I/m.al.dlnaserver(28509): Background young concurrent copying GC freed 55502(3191KB) AllocSpace objects, 3(124KB) LOS objects, 30% free, 7386KB/10MB, paused 809us,280us total 103.445ms
+W/System  (28509): A resource failed to call close. 
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@d67404d[MainActivity] change focus to true
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=753.375, y[0]=1212.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43985211, downTime=43985145, deviceId=3, source=0x1002, displayId=0, eventId=527843234 } handled by client, just return
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+D/WindowManager(28509): Add to mViews: DecorView@1804700[MainActivity],pkg= com.al.dlnaserver
+D/InputEventReceiver(28509): Input log is disabled in InputEventReceiver.
+E/OplusBracketLog(28509): [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@d22d32c
+D/BufferQueueConsumer(28509): [](id:6f5d00000010,api:0,p:-1,c:28509) connect: controlledByApp=false
+E/OpenGLRenderer(28509): Unable to match the desired swap behavior.
+I/SurfaceControl(28509):  setExtendedRangeBrightness sc=Surface(name=com.al.dlnaserver/com.al.dlnaserver.MainActivity)/@0xc892563,currentBufferRatio=1.0,desiredRatio=1.0
+D/BLASTBufferQueue(28509): [VRI[MainActivity]#16](f:0,a:1) acquireNextBufferLocked size=1218x869 mFrameNumber=1 applyTransaction=true mTimestamp=43985280927621(auto) mPendingTransactions.size=0 graphicBufferId=122445222641777 transform=0
+D/VRI[MainActivity](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+D/VRI[MainActivity](28509): draw finished.
+D/VRI[MainActivity](28509): reportDrawFinished
+D/ViewRootImplExtImpl(28509): setMaxDequeuedBufferCount: 2
+D/VRI[MainActivity](28509): onFocusEvent false
+D/VRI[MainActivity](28509): Received frameCommittedCallback lastAttemptedDrawFrameNum=3 didProduceBuffer=true syncBuffer=false
+D/VRI[MainActivity](28509): draw finished.
+D/VRI[MainActivity](28509): reportDrawFinished
+D/VRI[MainActivity](28509): onFocusEvent true
+W/RemoteInputConnectionImpl(28509): requestCursorAnchorInfo on inactive InputConnection
+E/ImeBackDispatcher(28509): Ime callback not found. Ignoring unregisterReceivedCallback. callbackId: 4819785
+D/OpenGLRenderer(28509): SkiaOpenGLPipeline::setSurface: this=0x7371b2be40, surface=NULL
+D/OpenGLRenderer(28509): SkiaOpenGLPipeline::setSurface: this=0x730076be80, surface=NULL
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@d67404d[MainActivity] change focus to false
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@1804700[MainActivity] change focus to true
+D/OplusSystemUINavigationGestureExtImpl(28509): regionString = null
+I/ImeTracker(28509): com.al.dlnaserver:75eea081: onRequestShow at ORIGIN_CLIENT_SHOW_SOFT_INPUT reason SHOW_SOFT_INPUT
+D/InputMethodManager(28509): showSoftInput() view=android.widget.EditText{ca57ad8 VFED..CL. .F.P..ID 0,0-945,129 #7f0a000a app:id/custom_input_EditText aid=1073741973 viewInfo = } flags=0 reason=SHOW_SOFT_INPUT
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=596.0, y[0]=377.625, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43986566, downTime=43986510, deviceId=3, source=0x1002, displayId=0, eventId=429771749 } handled by client, just return
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+I/AssistStructure(28509): Flattened final assist data: 25560 bytes, containing 3 windows, 53 views
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(181) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(181) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(181) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/InsetsController(28509): show(ime(), fromIme=true)
+I/AssistStructure(28509): Flattened final assist data: 25560 bytes, containing 3 windows, 53 views
+D/TrafficStats(28509): tagSocket(181) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(181) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(198) with statsTag=0xffffffff, statsUid=-1
+I/ImeTracker(28509): com.al.dlnaserver:75eea081: onShown
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(219) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(219) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(219) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(219) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(219) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(313) with statsTag=0xffffffff, statsUid=-1
+W/System  (28509): A resource failed to call close. 
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+I/m.al.dlnaserver(28509): Background concurrent copying GC freed 131056(6233KB) AllocSpace objects, 0(0B) LOS objects, 56% free, 4699KB/10MB, paused 2.800ms,2.350ms total 122.351ms
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+W/System  (28509): A resource failed to call close. 
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(219) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(219) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(219) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=905.375, y[0]=616.125, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43990969, downTime=43990926, deviceId=3, source=0x1002, displayId=0, eventId=179388409 } handled by client, just return
+W/WindowOnBackDispatcher(28509): sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@4819785 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@bff2d67
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,window dying
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,unregisterSystemUIBroadcastReceiver 
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity, unregisterSystemUIBroadcastReceiver failed java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@25e714
+W/WindowOnBackDispatcher(28509): sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@4052b8a
+D/OplusCursorFeedback(28509): editorDetachFromWindow android.widget.Editor@a03abbd
+D/OpenGLRenderer(28509): RenderProxy::destroy: this=0x73008c2280, mContext=0x7379dc7f40
+D/OpenGLRenderer(28509): SkiaOpenGLPipeline::setSurface: this=0x7310714840, surface=NULL
+D/OpenGLRenderer(28509): endAllActiveAnimators on 0x737d3b7800 (RippleDrawable) with handle 0x7371a746a0
+D/BLASTBufferQueue(28509): [VRI[MainActivity]#16](f:0,a:4) destructor()
+D/BufferQueueConsumer(28509): [VRI[MainActivity]#16(BLAST Consumer)16](id:6f5d00000010,api:0,p:-1,c:28509) disconnect
+D/OplusCursorFeedback(28509): getExtraCursorWidth
+D/OplusCursorFeedback(28509): getExtraLeftOffset
+D/VRI[MainActivity](28509): onFocusEvent true
+D/TrafficStats(28509): tagSocket(221) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(221) with statsTag=0xffffffff, statsUid=-1
+D/TrafficStats(28509): tagSocket(209) with statsTag=0xffffffff, statsUid=-1
+W/System  (28509): A resource failed to call close. 
+W/System  (28509): A resource failed to call close. 
+D/OplusScrollToTopManager(28509): com.al.dlnaserver/com.al.dlnaserver.MainActivity,This DecorView@d67404d[MainActivity] change focus to true
+D/ViewRootImplExtImpl(28509): MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=77.875, y[0]=1673.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=43992785, downTime=43992691, deviceId=3, source=0x1002, displayId=0, eventId=574031529 } handled by client, just return
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
+I/oplus.android.OplusFrameworkFactoryImpl(28509): get feature:IOplusDynamicVsyncFeature
